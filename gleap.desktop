@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name="gleap"
+Comment="Desktop switcher for Unity by Leap Motion device"
+Exec=python gleap.py
+Hidden=false
+NoDisplay=false
+Terminal=false
